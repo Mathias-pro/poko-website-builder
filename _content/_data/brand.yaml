@@ -27,6 +27,16 @@ customFontsImport:
         - normal
       subsets:
         - latin
+  - name: Roboto
+    source:
+      type: fontsource
+      name: Roboto
+      weights:
+        - '400'
+      styles:
+        - normal
+      subsets:
+        - latin
 typeScales:
   - name: main
     minFontSize: 16
