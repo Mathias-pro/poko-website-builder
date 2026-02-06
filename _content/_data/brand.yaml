@@ -74,6 +74,8 @@ colors:
     value: '#000000'
   - name: blanc
     value: '#ffffff'
+  - name: blanc-vert-mat
+    value: '#9ecb9c'
 palettes:
   - name: Nature
     text: blanc
