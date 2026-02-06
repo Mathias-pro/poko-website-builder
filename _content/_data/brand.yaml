@@ -40,6 +40,27 @@ colors:
     value: '#bfb304'
   - name: bleu-claire-05C7F2
     value: '#05c7f2'
+palettes:
+  - name: informatique
+    text: bleu-claire-05C7F2
+    bg: bleu-fonce-025373
+    accent: ''
+    border: ''
+    text-decoration: ''
+    text--marker: ''
+    advancedDefaults: null
+    selection: null
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
