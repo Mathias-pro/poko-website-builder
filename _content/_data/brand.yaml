@@ -12,7 +12,7 @@ fontStacksContexts:
       custom: Roboto
     heading:
       native: rounded-sans
-      custom: ''
+      custom: Bitter
     code:
       native: monospace-code
       custom: ''
