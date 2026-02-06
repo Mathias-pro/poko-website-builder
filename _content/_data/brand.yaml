@@ -64,8 +64,8 @@ colors:
     value: '#c4d9f2'
 palettes:
   - name: Nature
-    text: blanc-vert-mat
-    bg: noir
+    text: texte-bleu-mat
+    bg: fond-vert
     accent: bleu-ciel-3D9DF2
     border: bleu-ciel-3D9DF2
     text-decoration: bleu-ciel-3D9DF2
