@@ -7,57 +7,16 @@ localizationKey: e54ad616a3ef
 name: CV
 eleventyNavigation:
   order: 2
-vars: {}
 ---
-Assistant administratif
+# Assistant administratif
 
-“ En reconversion professionnelle dans le secteur administratif”
+> “ En reconversion professionnelle dans le secteur administratif”
 
-SOFT SKILLS
+{% section type="grid-fluid", vars={"columns":4,"gap":"","class":""}, blocks=[{"value":"**SOFT SKILLS&#9;**\n\n•\tAssertivité\n\n•\tCommunication claire\n\n•\tEsprit d’initiative\n\n•\tPrise de décision assurée\t","type":"markdown"},{"value":"**HARD SKILLS&#9;**\n\n•\tGérer ses tâches et ses projets\n\n•\tCommuniquer des informations\n\n•\tPrésenter des documents professionnels\n\n•\tGérer et présenter des données avec Excel\n\n•\tAccueillir, renseigner et traiter les demandes\t","type":"markdown"},{"value":"**LOGICIELS**\n\n•\tExcel\n\n•\tWord\n\n•\tPowerPoint\n\n•\tOutlook\n\n•\tOneDrive\n\n•\tTeams\t\t","type":"markdown"},{"value":"**LANGUES**\n\n•\tFrançais\n\n•\tNéerlandais A2\n\n•\tEspagnol B2","type":"markdown"}], advanced=null %}
 
-•	Assertivité
+				
+	
 
-•	Communication claire
-
-•	Esprit d’initiative
-
-•	Prise de décision assurée		
-
-	HARD SKILLS	
-
-•	Gérer ses tâches et ses projets
-
-•	Communiquer des informations
-
-•	Présenter des documents professionnels
-
-•	Gérer et présenter des données 
-
-avec Excel
-
-•	Accueillir, renseigner et traiter les demandes		
-
-	LOGICIELS	
-
-•	Excel
-
-•	Word
-
-•	PowerPoint
-
-•	Outlook
-
-•	OneDrive
-
-•	Teams		
-
-	LANGUES
-
-•	Français
-
-•	Néerlandais A2
-
-•	Espagnol B2
 
 ÉTUDES ET FORMATIONS
 
@@ -105,12 +64,10 @@ Cugnaux, France	Intérim
 
 Gardonne, France	Intérim
 
-CENTRES D'INTÉRÊT		                                 INFORMATIONS COMPLÉMENTAIRES
+CENTRES D'INTÉRÊT		INFORMATIONS COMPLÉMENTAIRES
 
-	Jeux vidéo en coop.			                         Permis B
+	Jeux vidéo en coop.			Permis B
 
-	Lecture de manga et manhwa.		         35 ans
+	Lecture de manga et manhwa.			35 ans
 
-	Fitness en salle		                                         Disponible pour stage à partir du 2 février 2026
-
-{% section type="grid-fluid", vars={"columns":3,"gap":"","class":""}, blocks=[{"value":"SOFT SKILLS","type":"markdown"},{"value":"HARD SKILLS\t","type":"markdown"},{"value":"LANGUES","type":"markdown"},{"value":"•\tAssertivité\n\n•\tCommunication claire\n\n•\tEsprit d’initiative\n\n•\tPrise de décision assurée\t\t","type":"markdown"},{"value":"•\tGérer ses tâches et ses projets\n\n•\tCommuniquer des informations\n\n•\tPrésenter des documents professionnels\n\n•\tGérer et présenter des données avec Excel","type":"markdown"},{"value":"•\tFrançais\n\n•\tNéerlandais A2\n\n•\tEspagnol B2","type":"markdown"}], advanced={} %}
+	Fitness en salle			Disponible pour stage à partir du 2 février 2026
