@@ -37,6 +37,16 @@ customFontsImport:
         - normal
       subsets:
         - latin
+  - name: Bitter
+    source:
+      type: fontsource
+      name: Bitter
+      weights:
+        - '400'
+      styles:
+        - normal
+      subsets:
+        - latin
 typeScales:
   - name: main
     minFontSize: 16
