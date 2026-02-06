@@ -13,6 +13,17 @@ fontStacksContexts:
       native: rounded-sans
     code:
       native: monospace-code
+customFontsImport:
+  - name: Pacifico
+    source:
+      type: fontsource
+      name: Pacifico
+      weights:
+        - '400'
+      styles:
+        - normal
+      subsets:
+        - latin
 typeScales:
   - name: main
     minFontSize: 18
