@@ -7,7 +7,6 @@ localizationKey: e54ad616a3ef
 name: CV
 eleventyNavigation:
   order: 1
-vars: {}
 ---
 Assistant administratif
 
@@ -112,3 +111,5 @@ CENTRES D'INTÉRÊT		                                 INFORMATIONS COMPLÉMENTAI
 	Lecture de manga et manhwa.		         35 ans
 
 	Fitness en salle		                                         Disponible pour stage à partir du 2 février 2026
+
+{% section type="grid-fluid", vars={"columns":3,"gap":"","class":""}, blocks=[{"value":"SOFT SKILLS","type":"markdown"},{"value":"HARD SKILLS\t","type":"markdown"},{"value":"LANGUES","type":"markdown"},{"value":"•\tAssertivité\n\n•\tCommunication claire\n\n•\tEsprit d’initiative\n\n•\tPrise de décision assurée\t\t","type":"markdown"},{"value":"•\tGérer ses tâches et ses projets\n\n•\tCommuniquer des informations\n\n•\tPrésenter des documents professionnels\n\n•\tGérer et présenter des données avec Excel","type":"markdown"},{"value":"•\tFrançais\n\n•\tNéerlandais A2\n\n•\tEspagnol B2","type":"markdown"}], advanced=null %}
