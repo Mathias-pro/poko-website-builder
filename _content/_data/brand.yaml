@@ -66,26 +66,6 @@ palettes:
   - name: Nature
     text: texte-bleu-mat
     bg: fond-vert
-    accent: bleu-ciel-3D9DF2
-    border: bleu-ciel-3D9DF2
-    text-decoration: bleu-ciel-3D9DF2
-    text--marker: bleu-ciel-3D9DF2
-    advancedDefaults: null
-    selection: null
-    strong: null
-    em: null
-    mark: null
-    b: null
-    heading: null
-    a: null
-    button: null
-    code: null
-    svg: null
-    scrollbar: null
-    advanced: null
-  - name: informatique
-    text: bleu-claire-05C7F2
-    bg: bleu-fonce-025373
     accent: ''
     border: ''
     text-decoration: ''
