@@ -9,10 +9,13 @@ fontStacksContexts:
   - name: main
     body:
       native: handwritten
+      custom: ''
     heading:
       native: rounded-sans
+      custom: Pacifico
     code:
       native: monospace-code
+      custom: ''
 customFontsImport:
   - name: Pacifico
     source:
