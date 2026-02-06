@@ -5,6 +5,8 @@ createdAt: 2026-02-06T10:07:00.000Z
 uuid: 2ea5ba0326ac
 localizationKey: e54ad616a3ef
 name: CV
+eleventyNavigation:
+  order: 2
 vars: {}
 ---
 # Assistant administratif
