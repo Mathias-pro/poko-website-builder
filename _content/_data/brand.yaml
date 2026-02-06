@@ -33,6 +33,13 @@ typeScales:
     maxFontSize: 20
     minTypeScale: 1.2
     maxTypeScale: 1.25
+colors:
+  - name: bleu-fonce-025373
+    value: '#025373'
+  - name: jaune-BFB304
+    value: '#bfb304'
+  - name: bleu-claire-05C7F2
+    value: '#05c7f2'
 styleContexts:
   - name: main
     value: ctx
