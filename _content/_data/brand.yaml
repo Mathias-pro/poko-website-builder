@@ -78,12 +78,12 @@ colors:
     value: '#9ecb9c'
 palettes:
   - name: Nature
-    text: blanc
-    bg: vert-sombre-262401
-    accent: vert-olive-6E8C03
+    text: blanc-vert-mat
+    bg: vert-fonce-3E5902
+    accent: bleu-ciel-3D9DF2
     border: bleu-ciel-3D9DF2
     text-decoration: bleu-ciel-3D9DF2
-    text--marker: vert-olive-6E8C03
+    text--marker: bleu-ciel-3D9DF2
     advancedDefaults: null
     selection: null
     strong: null
