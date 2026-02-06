@@ -54,32 +54,18 @@ typeScales:
     minTypeScale: 1.2
     maxTypeScale: 1.25
 colors:
-  - name: bleu-fonce-025373
-    value: '#025373'
-  - name: jaune-BFB304
-    value: '#bfb304'
-  - name: bleu-claire-05C7F2
-    value: '#05c7f2'
-  - name: vert-fonce-3E5902
-    value: '#3e8c03'
-  - name: bleu-ciel-3D9DF2
-    value: '#3d9df2'
-  - name: vert-olive-6E8C03
-    value: '#6e8c03'
-  - name: vert-clair-6E8C03
-    value: '#b9bf04'
-  - name: vert-sombre-262401
-    value: '#262401'
+  - name: fond-vert
+    value: '#073300'
   - name: noir
     value: '#000000'
   - name: blanc
     value: '#ffffff'
-  - name: blanc-vert-mat
-    value: '#9ecb9c'
+  - name: texte-bleu-mat
+    value: '#c4d9f2'
 palettes:
   - name: Nature
     text: blanc-vert-mat
-    bg: vert-fonce-3E5902
+    bg: noir
     accent: bleu-ciel-3D9DF2
     border: bleu-ciel-3D9DF2
     text-decoration: bleu-ciel-3D9DF2
