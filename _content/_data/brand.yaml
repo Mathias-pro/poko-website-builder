@@ -9,10 +9,10 @@ fontStacksContexts:
   - name: main
     body:
       native: handwritten
-      custom: ''
+      custom: Pacifico
     heading:
       native: rounded-sans
-      custom: Pacifico
+      custom: ''
     code:
       native: monospace-code
       custom: ''
@@ -56,7 +56,7 @@ colors:
     value: '#ffffff'
 palettes:
   - name: Nature
-    text: vert-clair-6E8C03
+    text: blanc
     bg: vert-sombre-262401
     accent: vert-olive-6E8C03
     border: bleu-ciel-3D9DF2
