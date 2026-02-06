@@ -50,6 +50,10 @@ colors:
     value: '#b9bf04'
   - name: vert-sombre-262401
     value: '#262401'
+  - name: noir
+    value: '#000000'
+  - name: blanc
+    value: '#ffffff'
 palettes:
   - name: Nature
     text: vert-clair-6E8C03
