@@ -71,6 +71,26 @@ palettes:
     svg: null
     scrollbar: null
     advanced: null
+  - name: Nature
+    text: vert-clair-6E8C03
+    bg: vert-sombre-262401
+    accent: vert-olive-6E8C03
+    border: bleu-ciel-3D9DF2
+    text-decoration: bleu-ciel-3D9DF2
+    text--marker: vert-olive-6E8C03
+    advancedDefaults: null
+    selection: null
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
