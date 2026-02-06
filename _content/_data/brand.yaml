@@ -10,7 +10,7 @@ fontStacksContexts:
     body:
       native: handwritten
     heading:
-      native: system-ui
+      native: rounded-sans
     code:
       native: monospace-code
 typeScales:
