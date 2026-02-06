@@ -6,7 +6,7 @@ uuid: 26cfb009870b
 localizationKey: 50f745701603
 name: Index
 eleventyNavigation:
-  order: 2
+  order: 1
 ---
 Bienvenue sur mon site
 
