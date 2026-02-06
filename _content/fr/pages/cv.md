@@ -6,7 +6,8 @@ uuid: 2ea5ba0326ac
 localizationKey: e54ad616a3ef
 name: CV
 eleventyNavigation:
-  order: 1
+  order: 2
+vars: {}
 ---
 Assistant administratif
 
