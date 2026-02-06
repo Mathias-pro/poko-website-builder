@@ -3,7 +3,8 @@ productionUrl: https://poko-website-builder-erz.pages.dev/
 languages:
   - code: fr
     name: Français
-    customUrlPrefix: null
+    customUrlPrefix:
+      prefix: ''
     status: published
     isCmsDefault: false
     isWebsiteDefault: false
