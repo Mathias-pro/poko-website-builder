@@ -5,69 +5,11 @@ createdAt: 2026-02-06T10:07:00.000Z
 uuid: 2ea5ba0326ac
 localizationKey: e54ad616a3ef
 name: CV
-eleventyNavigation:
-  order: 2
 ---
 # Assistant administratif
 
 > “ En reconversion professionnelle dans le secteur administratif”
 
-{% section type="grid-fluid", vars={"columns":4,"gap":"","class":""}, blocks=[{"value":"**SOFT SKILLS&#9;**\n\n•\tAssertivité\n\n•\tCommunication claire\n\n•\tEsprit d’initiative\n\n•\tPrise de décision assurée\t","type":"markdown"},{"value":"**HARD SKILLS&#9;**\n\n•\tGérer ses tâches et ses projets\n\n•\tCommuniquer des informations\n\n•\tPrésenter des documents professionnels\n\n•\tGérer et présenter des données avec Excel\n\n•\tAccueillir, renseigner et traiter les demandes\t","type":"markdown"},{"value":"**LOGICIELS**\n\n•\tExcel\n\n•\tWord\n\n•\tPowerPoint\n\n•\tOutlook\n\n•\tOneDrive\n\n•\tTeams\t\t","type":"markdown"},{"value":"**LANGUES**\n\n•\tFrançais\n\n•\tNéerlandais A2\n\n•\tEspagnol B2","type":"markdown"}], advanced=null %}
+{% section type="grid-fluid", vars={"columns":4,"gap":"","class":""}, blocks=[{"value":"**SOFT SKILLS&#9;**\n\n•\tAssertivité\n\n•\tCommunication claire\n\n•\tEsprit d’initiative\n\n•\tPrise de décision assurée\t","type":"markdown"},{"value":"**HARD SKILLS&#9;**\n\n•\tGérer ses tâches et ses projets\n\n•\tCommuniquer des informations\n\n•\tPrésenter des documents professionnels\n\n•\tGérer et présenter des données avec Excel\n\n•\tAccueillir, renseigner et traiter les demandes\t","type":"markdown"},{"value":"**LOGICIELS**\n\n•\tExcel\n\n•\tWord\n\n•\tPowerPoint\n\n•\tOutlook\n\n•\tOneDrive\n\n•\tTeams\t\t","type":"markdown"},{"value":"**LANGUES**\n\n•\tFrançais\n\n•\tNéerlandais A2\n\n•\tEspagnol B2","type":"markdown"}], advanced={} %}
 
-				
-	
-
-
-ÉTUDES ET FORMATIONS
-
-2025 - 2026	Assistant administratif - Secrétariat 3.0
-
-Techniques de secrétariat ǀ Communication orale, écrite et numérique ǀ IA  ǀ Bureautique ǀ Néerlandais orienté métier	Bruxelles Formation, Bureau & Services
-
-2025	Atelier 3.0 - Office Immersion	Bruxelles Formation, Bureau & Services
-
-2025	Gestion de la qualité, sécurité et environnement	Bruxelles Formation, Management
-
-2024	Néerlandais 2.1	VDAB
-
-2022	Excel TOSA	Bruxelles Formation
-
-2018 - 2019	Certificat de secourisme	Henkel, Belgique
-
-2010 - 2012	BTS Brevet de Technicien Supérieur Chimiste
-
-Équivalence de niveau Bachelier, Fédération W-B	Déodat de Séverac, Toulouse, France
-
-EXPÉRIENCES PROFESSIONNELLES
-
-2021 - 2022	Opérateur CME en zone aseptique	Catalent, 
-
-N-O-H, Belgique	Intérim + CDD
-
-2017 - 2020	Opérateur en zone de production en fabrication de colle	Henkel, 
-
-Drogenbos, Belgique	Intérim + CDI
-
-2016	Technicien de nettoyages des locaux et des isolateurs	G.S.K., 
-
-Saint-Amand les eaux, France	Intérim
-
-2015 - 2016	Opérateur de reconditionnement	TREDI, 
-
-Saint-Vulbas, France	CDD
-
-2014	Opérateur de production (métallurgie)	G.I.T., 
-
-Cugnaux, France	Intérim
-
-2013	Gestion de la production dans le secteur de l'extraction végétale	Berkem, 
-
-Gardonne, France	Intérim
-
-CENTRES D'INTÉRÊT		INFORMATIONS COMPLÉMENTAIRES
-
-	Jeux vidéo en coop.			Permis B
-
-	Lecture de manga et manhwa.			35 ans
-
-	Fitness en salle			Disponible pour stage à partir du 2 février 2026
+{% section type="grid-fluid", vars={"columns":3,"gap":"","class":""}, blocks=[{"value":"2025 - 2026\n\n2025\n\n2025\n\n2024\n\n2022\n\n2018 - 2019\n\n2010 - 2012","type":"markdown"},{"value":"Assistant administratif - Secrétariat 3.0 - Techniques de secrétariat ǀ Communication orale, écrite et numérique ǀ IA  ǀ Bureautique ǀ Néerlandais orienté métier\n\nAtelier 3.0 - Office Immersion\n\nGestion de la qualité, sécurité et environnement\n\nNéerlandais 2.1\n\nExcel TOSA\n\nCertificat de secourisme\n\nBTS Brevet de Technicien Supérieur Chimiste\n\nÉquivalence de niveau Bachelier, Fédération W-B","type":"markdown"},{"value":"Bruxelles Formation, Bureau & Services\n\nBruxelles Formation, Bureau & Services\n\nBruxelles Formation, Management\n\nVDAB\n\nBruxelles Formation\n\nHenkel, Belgique\n\nDéodat de Séverac, Toulouse, France","type":"markdown"}], advanced={} %}
