@@ -38,3 +38,11 @@ Tu obtiens un nouvel onglet avec une copie du **website-builder** qui sera sur t
 {% image src="/_images/nouvelle-fourchette.webp" %}
 
 « Félicitation c’est ton nouveau bébé », prend en soins.
+
+## 2éme étape :
+
+Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
+
+###### **_Un TOKEN (ou jeton d’accès)_**_&#32;est une chaîne secrète utilisée à la place d’un mot de passe pour s’authentifier auprès de GitHub via l’API ou la ligne de commande ; il donne des droits d’accès limités selon les permissions qu’on lui donne._
+
+Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
