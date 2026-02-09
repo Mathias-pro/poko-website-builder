@@ -25,6 +25,16 @@ Aller sur cette page Github : [poko-website-builder](https://github.com/m4rrc0/p
 
 Vérifie bien que tu es connecté sur ton compte.
 
-Première chose à faire cliquer sur Fork.
+Première chose à faire cliquer sur**&#32;"Fork"**.
 
 {% image src="/_images/poko-website-builder-fork.webp" %}
+
+Tu peux ajouter une description à ton nouveau projet et le renommé.
+
+Puis clique sur **_« Create fork »_** pour valider
+
+Tu obtiens un nouvel onglet avec une copie du **website-builder** qui sera sur ton nouveau compte Github 
+
+{% image src="/_images/nouvelle-fourchette.webp" %}
+
+« Félicitation c’est ton nouveau bébé », prend en soins.
