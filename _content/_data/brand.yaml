@@ -3,8 +3,8 @@ ctxCssImport:
 inlineAllStyles: true
 widthsContexts:
   - name: main
-    max: 160rem
-    prose: 50rem
+    max: 80rem
+    prose: 80rem
 fontStacksContexts:
   - name: main
     body:
