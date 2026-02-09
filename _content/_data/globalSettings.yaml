@@ -1,0 +1,9 @@
+siteName: Tuto POKO
+productionUrl: https://poko-website-builder-erz.pages.dev
+htmlHead: ''
+cssHead: ''
+languages:
+  - code: fr
+    status: published
+    keepUrlPrefix: false
+collections: []
