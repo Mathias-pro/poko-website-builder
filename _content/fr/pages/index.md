@@ -188,4 +188,4 @@ C) Ouvre le volet « Languages » et choisi ta langue.
 
 {% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
 
-{% image src="/_images/23-cms-settings-langue-2.webp", width="300" %}
+{% image src="/_images/23-cms-settings-langue-2.webp", width="301" %}
