@@ -139,4 +139,12 @@ M) Si ça échoue clique sur .
 
 Si, il échoue. Clique simplement sur _" Modifier les paramètres "_ **13**. L’erreur la plus commune étant de se tromper sur _" Commande de version " et " Répertoire de sortie de version_ écrit**&#32;"**.(voir étape I)
 
-Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les « … » du site créé.
+Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les "_&#32;… "_ **14** du site créé puis sur _"Paramètre"_ **15**.
+
+{% image src="/_images/15.webp", width="600" %}
+
+Supprime-le, puis refais la manipulation depuis le début, en validant bien chaque étape.
+
+> Tu trouveras l'option de suppression tout en bas des paramètres **16**.
+
+{% image src="/_images/16-suprimer.webp", width="600" %}
