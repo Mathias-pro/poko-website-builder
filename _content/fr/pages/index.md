@@ -17,7 +17,7 @@ dataList: []
 ---
 # Comment utilise-t-on POKO ?
 
-Avant toute chose, crée toi un compte [Github](https://github.com/) et 1 compte [Cloudflare](https://www.cloudflare.com) « C’est entièrement gratuit. »
+Avant toute chose, crée toi un compte [Github](https://github.com/) et 1 compte [Cloudflare](https://www.cloudflare.com). « C’est entièrement gratuit »
 
 ## 1ère étape :
 
@@ -73,7 +73,7 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 •	Si tu as bifurqué le dépôt dans une organisation, change le " Resource Ownerpour " correspondre au nom de ton organisation.
 
-•	N’hésite pas à définir une date d’expiration ou à restreindre le " Repository access "
+•	N’hésite pas à définir une date d’expiration ou à restreindre le " Repository access ".
 
 Le but étant d’avoir un TOKEN de secours pour pouvoir accéder à ton projet de n’importe où (garde bien une date d’expiration illimitée). 
 
@@ -81,11 +81,11 @@ Bravo, tu as créé ton premier TOKEN.
 
 {% image src="/_images/6-token.webp", width="600" %}
 
-Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe) 
+Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
 
-•	⚠️ Ne partagez pas ce jeton avec qui que ce soit
+•	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
 
-•	⚠️ Vous ne serez pas en mesure de lire le jeton de Github après avoir quitté la page (vous pouvez toujours en créer un nouveau cependant.)
+•	⚠️ Vous ne serez pas en mesure de lire le jeton de Github après avoir quitté la page (vous pouvez toujours en créer un nouveau cependant).
 
 ## 3éme étape :
 
@@ -95,22 +95,34 @@ A) Clique sur ce lien pour commencer : [Workers & Pages.](https://dash.cloudflar
 
 B) Connecte-toi à ton compte  **1** , si ce n’est pas déjà fait.
 
-C) Clique sur "_&#160;Add "_**&#32;3**
+C) Clique sur "_&#160;Ajouter "_**&#32;3**.
 
 {% image src="/_images/7-workes-pages.webp", width="600" %}
 
-> Sur cette page, tu pourras voir tous tes sites web hébergés sur Cloudflare via cet onglet " **2** ". 
+> Sur cette page, tu pourras voir tous tes sites web hébergés sur Cloudflare via cet onglet " **2** ".
 
-_D) Clique sur " Pages "_**&#32;4**
+_D) Clique sur " Pages "_**&#32;4**.
 
-E) Clique sur "_&#32;Import an existing Git repository "_**&#32;5**
+E) Clique sur "_&#32;Importer un référentiel Git existant "_**&#32;5**.
 
 {% image src="/_images/8-importer-un-referentiel-github.webp", width="600" %}
 
-F) Clique dans le cadre de _" Select a repository "_ **6** sur le nom de votre projet.
+F) Clique dans le cadre de _" Sélectionner un référentiel "_ **6** sur le nom de votre projet.
 
 {% image src="/_images/9-chois-du-compte.webp", width="600" %}
 
-G) Clique sur _" Begin setup "_**&#32;7** (Il restera grisé temps que le projet ne sera pas sélectionné)
+G) Clique sur _" Commencer la configuration "_**&#32;7** (Il restera grisé temps que le projet ne sera pas sélectionné).
 
 {% image src="/_images/10-commencer-la-configuration.webp", width="600" %}
+
+H) Vérifie que tu es bien sur _" main "_** 8**.
+
+{% image src="/_images/11-configurer-les-versions-et-les-deploiements.webp", width="600" %}
+
+I)a) Dans _" Commande de version "_ écrit **" bun run build " 9**.
+
+   b) Puis dans _" Répertoire de sortie de version_ écrit**&#32;" dist " 10**.
+
+J) Clique sur _" Enregistrer et déployer "_** 11**_._
+
+{% image src="/_images/12-configurer-les-versions-et-les-deploiements-2.webp" %}
