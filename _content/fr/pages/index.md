@@ -148,3 +148,14 @@ Supprime-le, puis refais la manipulation depuis le début, en validant bien chaq
 > Tu trouveras l'option de suppression tout en bas des paramètres **16**.
 
 {% image src="/_images/16-suprimer.webp", width="600" %}
+
+## 
+
+## 4éme étape :
+
+Ton site est maintenant hébergé ;p
+
+On doit maintenant accéder au CMS  pour pouvoir le configurer.
+
+- Trouvez l'URL de ton projet _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
+- Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
