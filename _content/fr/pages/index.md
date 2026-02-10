@@ -51,22 +51,21 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 #### Tu peux :
 
-1 Renommer ton TOKEN
 
-2 Mettre une description
+**1 Renommer ton TOKEN**
 
-3 Définir le propriétaire
+**2 Mettre une description**
 
-4 Choisir une date d’expiration (si tu souhaites donner un accès temporaire)
+**3 Définir le propriétaire**
 
-{% image src="/_images/4-creation-de-token-2.webp", width="600" %}
+**4 Choisir une date d’expiration (si tu souhaites donner un accès temporaire)**
 
-#### 
+{% image src="/_images/4-creation-de-token-2.webp", width="600", class="float-right" %}
 
-5 Choisir le type d’accès
+**5 Choisir le type d’accès**
 
-6 Choisir le type d’accès
+**6 Choisir le type d’accès**
 
-7 Et enfin générer le TOKEN 
+**7 Et enfin générer le TOKEN** 
 
-{% image src="/_images/5-creation-de-token-3.webp", width="300" %}
+{% image src="/_images/5-creation-de-token-3.webp", width="300", class="float-right" %}
