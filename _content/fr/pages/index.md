@@ -67,7 +67,7 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 **7** Et enfin générer le TOKEN 
 
-{% image src="/_images/5-creation-de-token-3.webp", width="300" %}
+{% image src="/_images/5-creation-de-token-3.webp", width="200" %}
 
 À savoir :
 
