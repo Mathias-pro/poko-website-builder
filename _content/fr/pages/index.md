@@ -35,7 +35,7 @@ Puis clique sur **_« Create fork »_** pour valider
 
 Tu obtiens un nouvel onglet avec une copie du **website-builder** qui sera sur ton nouveau compte Github 
 
-{% image src="/_images/nouvelle-fourchette.webp", width="600" %}
+{% image src="/_images/nouvelle-fourchette.webp", width="500" %}
 
 « Félicitation c’est ton nouveau bébé », prend en soins.
 
