@@ -115,7 +115,7 @@ G) Clique sur _" Commencer la configuration "_**&#32;7** (Il restera grisé temp
 
 {% image src="/_images/10-commencer-la-configuration.webp", width="600" %}
 
-H) Vérifie que tu es bien sur _" main "_**&#32;8**.
+H) Vérifie que tu es bien sur _" main "_ **8**.
 
 {% image src="/_images/11-configurer-les-versions-et-les-deploiements.webp", width="600" %}
 
