@@ -115,7 +115,7 @@ G) Clique sur _" Commencer la configuration "_**&#32;7** (Il restera grisé temp
 
 {% image src="/_images/10-commencer-la-configuration.webp", width="600" %}
 
-H) Vérifie que tu es bien sur _" main "_** 8**.
+H) Vérifie que tu es bien sur _" main "_**&#32;8**.
 
 {% image src="/_images/11-configurer-les-versions-et-les-deploiements.webp", width="600" %}
 
@@ -123,6 +123,16 @@ I)a) Dans _" Commande de version "_ écrit **" bun run build " 9**.
 
    b) Puis dans _" Répertoire de sortie de version_ écrit**&#32;" dist " 10**.
 
-J) Clique sur _" Enregistrer et déployer "_** 11**_._
+J) Clique sur _" Enregistrer et déployer "_**&#32;11**_._
 
-{% image src="/_images/12-configurer-les-versions-et-les-deploiements-2.webp" %}
+{% image src="/_images/12-configurer-les-versions-et-les-deploiements-2.webp", width="600" %}
+
+K) Patient un peu \~30s, tu devrais voir cette page s’afficher quand il a fini.
+
+{% image src="/_images/13-operation-reussie.webp", width="600" %}
+
+L) Clique sur _" Continuer le projet "_ **12**.
+
+{% image src="/_images/14-modifier-ou-continuer.webp", width="600" %}
+
+M) Si ça échoue clique sur _" Modifier les paramètres "_ **13**.
