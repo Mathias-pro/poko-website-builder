@@ -93,17 +93,17 @@ On va maintenant héberger ton site web grâce à Cloudflare.
 
 A) Clique sur ce lien pour commencer : [Workers & Pages.](https://dash.cloudflare.com/234702a4576e337d12ae62cabd002e0c/workers-and-pages)
 
-B)**** Connecte-toi à ton compte**&#32;&#32;1** , si ce n’est pas déjà fait.
+B) Connecte-toi à ton compte  **1** , si ce n’est pas déjà fait.
 
 C) Clique sur "_&#160;Add "_**&#32;3**
 
-{% image src="/_images/7-workes-pages.webp" %}
+{% image src="/_images/7-workes-pages.webp", width="600" %}
 
 > Sur cette page, tu pourras voir tous tes sites web hébergés sur Cloudflare via cet onglet " **2** ". 
 
 _D) Clique sur " Pages "_**&#32;4**
 
-E) Clique sur "_&#32;Import an existing Git repository "_** 5**
+E) Clique sur "_&#32;Import an existing Git repository "_**&#32;5**
 
 {% image src="/_images/8-importer-un-referentiel-github.webp" %}
 
