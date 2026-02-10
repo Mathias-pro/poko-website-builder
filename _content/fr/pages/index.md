@@ -159,3 +159,5 @@ On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
 - Trouvez l'URL de ton projet _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
 - Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
+
+{% image src="/_images/17-cms-connection-admin.webp", width="600" %}
