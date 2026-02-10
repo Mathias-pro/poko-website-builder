@@ -162,11 +162,11 @@ On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
 Clique sur _"Sign in with GitHub Using PAT"_ **2**.
 
-{% image src="/_images/18-cms-connection-admin-2.webp", width="300" %}
+{% image src="/_images/18-cms-connection-admin-2.webp", width="250" %}
 
 Tu doit coller le TOKEN que tu as précieusement sauvegardé au début **3**.
 
-{% image src="/_images/19-cms-connection-admin-token.webp", width="400" %}
+{% image src="/_images/19-cms-connection-admin-token.webp", width="300" %}
 
 Bienvenue sur ton CMS. 
 
@@ -188,4 +188,4 @@ C) Ouvre le volet « Languages » et choisi ta langue.
 
 {% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
 
-{% image src="/_images/23-cms-settings-langue-2.webp" %}
+{% image src="/_images/23-cms-settings-langue-2.webp", width="300" %}
