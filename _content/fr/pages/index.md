@@ -105,7 +105,7 @@ _D) Clique sur " Pages "_**&#32;4**.
 
 E) Clique sur "_&#32;Importer un référentiel Git existant "_**&#32;5**.
 
-{% image src="/_images/8-importer-un-referentiel-github.webp", width="600" %}
+{% image src="/_images/8-importer-un-referentiel-github.webp", width="400" %}
 
 F) Clique dans le cadre _" Sélectionner un référentiel "_ **6** sur le nom de votre projet.
 
