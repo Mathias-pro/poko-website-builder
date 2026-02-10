@@ -140,3 +140,5 @@ M) Si ça échoue clique sur .
 Si, il échoue. Clique simplement sur _" Modifier les paramètres "_ **13**. L’erreur la plus commune étant de se tromper sur _" Commande de version " et " Répertoire de sortie de version_ écrit**&#32;"**.(voir étape I)
 
 Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les « … » du site créé.
+
+{% image src="undefined" %}
