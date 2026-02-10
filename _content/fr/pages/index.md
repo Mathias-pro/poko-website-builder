@@ -135,11 +135,9 @@ L) Clique sur _" Continuer le projet "_ **12**.
 
 {% image src="/_images/14-modifier-ou-continuer.webp", width="600" %}
 
-M) Si ça échoue clique sur .
+Si ça échoue, clique simplement sur _" Modifier les paramètres "_ **13**. L’erreur la plus commune étant de se tromper sur _" Commande de version " et " Répertoire de sortie de version_ écrit ".(voir étape I)
 
-Si, il échoue. Clique simplement sur _" Modifier les paramètres "_ **13**. L’erreur la plus commune étant de se tromper sur _" Commande de version " et " Répertoire de sortie de version_ écrit ".(voir étape I)
-
-Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les "_&#32;… "_ **14** du site créé puis sur _"Paramètre"_ **15**.
+Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les _" … "_ **14** du site créé puis sur _"Paramètre"_ **15**.
 
 {% image src="/_images/15.webp", width="600" %}
 
@@ -157,7 +155,11 @@ Ton site est maintenant hébergé ;p
 
 On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
-- Trouvez l'URL de ton projet _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
+- Trouvez l'URL de ton projet **1** _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
 - Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
 
-{% image src="/_images/17-cms-connection-admin.webp", width="600" %}
+{% image src="/_images/17-cms-connection-admin.webp", width="500" %}
+
+Tu dois voir ça sur ta page **2**.
+
+{% image src="/_images/18-cms-connection-admin-2.webp", width="300" %}
