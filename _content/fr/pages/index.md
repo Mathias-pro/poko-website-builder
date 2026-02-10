@@ -105,12 +105,12 @@ _D) Clique sur " Pages "_**&#32;4**
 
 E) Clique sur "_&#32;Import an existing Git repository "_**&#32;5**
 
-{% image src="/_images/8-importer-un-referentiel-github.webp" %}
+{% image src="/_images/8-importer-un-referentiel-github.webp", width="600" %}
 
 F) Clique dans le cadre de _" Select a repository "_ **6** sur le nom de votre projet.
 
 {% image src="/_images/9-chois-du-compte.webp", width="600" %}
 
-G) Clique sur _" Begin setup "_** 7** (Il restera grisé temps que le projet ne sera pas sélectionné)
+G) Clique sur _" Begin setup "_**&#32;7** (Il restera grisé temps que le projet ne sera pas sélectionné)
 
 {% image src="/_images/10-commencer-la-configuration.webp", width="600" %}
