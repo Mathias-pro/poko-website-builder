@@ -35,7 +35,7 @@ Puis clique sur **_« Create fork »_** pour valider
 
 Tu obtiens un nouvel onglet avec une copie du **website-builder** qui sera sur ton nouveau compte Github 
 
-{% image src="/_images/nouvelle-fourchette.webp", width="800" %}
+{% image src="/_images/nouvelle-fourchette.webp", width="600" %}
 
 « Félicitation c’est ton nouveau bébé », prend en soins.
 
@@ -47,6 +47,6 @@ Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
 
 Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
 
-{% image src="/_images/token-1-sur-2.webp" %}
+{% image src="/_images/token-1-sur-2.webp", width="600" %}
 
-{% image src="/_images/token-1-5-sur-2.webp" %}
+{% image src="/_images/token-2-sur-2.webp", width="600" %}
