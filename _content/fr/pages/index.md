@@ -121,7 +121,7 @@ H) Vérifie que tu es bien sur _" main "_ **8**.
 
 I)a) Dans _" Commande de version "_ écrit **" bun run build " 9**.
 
-   b) Puis dans _" Répertoire de sortie de version_ écrit**&#32;" dist " 10**.
+   b) Puis dans _" Répertoire de sortie de version_ écrit **" dist " 10**.
 
 J) Clique sur _" Enregistrer et déployer "_**&#32;11**_._
 
