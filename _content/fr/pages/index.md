@@ -75,7 +75,6 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 •	N’hésite pas à définir une date d’expiration ou à restreindre le " Repository access "
 
-
 Le but étant d’avoir un TOKEN de secours pour pouvoir accéder à ton projet de n’importe où (garde bien une date d’expiration illimitée). 
 
 Bravo, tu as créé ton premier TOKEN. 
@@ -91,3 +90,11 @@ Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. 
 ## 3éme étape :
 
 On va maintenant héberger ton site web grâce à Cloudflare.
+
+A) Clique sur ce lien pour commencer : [Workers & Pages.](https://dash.cloudflare.com/234702a4576e337d12ae62cabd002e0c/workers-and-pages)
+
+B)**&#32;Connecte-toi à ton compte**, si ce n’est pas déjà fait.
+
+C) Clique sur _« Add »_
+
+{% image src="undefined" %}
