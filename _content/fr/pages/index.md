@@ -47,10 +47,7 @@ Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
 
 Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
 
-{% image src="/_images/3-creation-de-token.webp", width="600", class="float-right" %}
-
 #### Tu peux :
-
 
 **1 Renommer ton TOKEN**
 
@@ -60,12 +57,14 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 **4 Choisir une date d’expiration (si tu souhaites donner un accès temporaire)**
 
-{% image src="/_images/4-creation-de-token-2.webp", width="600", class="float-right" %}
+{% image src="/_images/3-creation-de-token.webp", width="600" %}
 
 **5 Choisir le type d’accès**
 
 **6 Choisir le type d’accès**
 
+{% image src="/_images/4-creation-de-token-2.webp", width="600" %}
+
 **7 Et enfin générer le TOKEN** 
 
-{% image src="/_images/5-creation-de-token-3.webp", width="300", class="float-right" %}
+{% image src="/_images/5-creation-de-token-3.webp", width="300" %}
