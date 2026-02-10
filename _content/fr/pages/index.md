@@ -60,3 +60,9 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 4 Choisir une date d’expiration (si tu souhaites donner un accès temporaire)
 
 {% image src="/_images/token-2-sur-2-1.webp", width="500" %}
+
+5 Choisir le type d’accès
+
+6 Choisir le type d’accès
+
+7 Et enfin générer le TOKEN
