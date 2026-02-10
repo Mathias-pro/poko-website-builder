@@ -129,7 +129,7 @@ J) Clique sur _" Enregistrer et déployer "_**&#32;11**_._
 
 K) Patient un peu \~30s, tu devrais voir cette page s’afficher quand il a fini.
 
-{% image src="/_images/13-operation-reussie.webp", width="600" %}
+{% image src="/_images/13-operation-reussie.webp", width="400" %}
 
 L) Clique sur _" Continuer le projet "_ **12**.
 
