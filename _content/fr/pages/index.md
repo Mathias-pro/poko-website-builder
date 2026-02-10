@@ -49,10 +49,6 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 {% image src="/_images/3-creation-de-token.webp", width="600", class="float-right" %}
 
-#### 
-
-{% image src="/_images/4-creation-de-token-2.webp", width="600" %}
-
 #### Tu peux :
 
 1 Renommer ton TOKEN
@@ -62,6 +58,10 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 3 Définir le propriétaire
 
 4 Choisir une date d’expiration (si tu souhaites donner un accès temporaire)
+
+{% image src="/_images/4-creation-de-token-2.webp", width="600" %}
+
+#### 
 
 5 Choisir le type d’accès
 
