@@ -47,11 +47,11 @@ Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
 
 Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
 
-{% image src="/_images/token-1-sur-2-1.webp", width="550" %}
+{% image src="/_images/token-1-sur-2-1.webp", width="500" %}
 
 #### 
 
-{% image src="/_images/token-2-sur-2-1.webp", width="550" %}
+{% image src="/_images/token-2-sur-2-1.webp", width="500" %}
 
 #### Tu peux :
 
