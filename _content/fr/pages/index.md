@@ -49,4 +49,4 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 {% image src="/_images/token-1-sur-2.webp" %}
 
-{% image src="/_images/token-1-sur-2.webp" %}
+{% image src="/_images/token-1-5-sur-2.webp" %}
