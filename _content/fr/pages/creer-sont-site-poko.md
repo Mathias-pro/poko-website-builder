@@ -106,19 +106,19 @@ B) Clique sur _" Pages "_.
 
 C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
 
-{% image src="/_images/3-giyhub-action.webp", width="900" %}
+{% image src="/_images/3-giyhub-action.webp", width="1200" %}
 
 D) Vas maintenant dans l'onglet principale _" Actions "_**&#32;2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
 
-{% image src="/_images/4-je-comprend-et-valide.webp", width="900" %}
+{% image src="/_images/4-je-comprend-et-valide.webp", width="1200" %}
 
 E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
 
-{% image src="/_images/5-deploy.webp", width="900" %}
+{% image src="/_images/5-deploy.webp", width="1200" %}
 
 F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide**&#32;6**.
 
-{% image src="/_images/6-run-workflow.webp", width="900" %}
+{% image src="/_images/6-run-workflow.webp", width="1200" %}
 
 ## 4éme étape :
 
@@ -159,7 +159,7 @@ C) Ouvre le volet _" Languages "_ et choisi ta langue.
 
 {% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
 
-{% image src="/_images/23-cms-settings-langue-2.webp", width="301" %}
+{% image src="/_images/23-cms-settings-langue-2.webp", width="300" %}
 
 Vérifie que tu as bien complété tous les champs contenant une astérisque _" \* "_.
 
