@@ -5,7 +5,10 @@ createdAt: 2026-02-09T13:18:00.000Z
 uuid: b295be3b6780
 localizationKey: 364680cddfc8
 name: Tuto POKO
-eleventyNavigation: null
+eleventyNavigation:
+  title: Configurer le CMS
+  parent: ''
+  order: 0
 metadata: null
 preview: null
 tags: []
@@ -184,8 +187,24 @@ B) Colle l’URL de ton site sans oublier le _" https:// "_ et en enlevant tout 
 
 {% image src="/_images/21-cms-settings-url.webp", width="300" %}
 
-C) Ouvre le volet « Languages » et choisi ta langue.
+C) Ouvre le volet _" Languages "_ et choisi ta langue.
 
 {% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
 
 {% image src="/_images/23-cms-settings-langue-2.webp", width="301" %}
+
+Vérifie que tu as bien complété tous les champs contenant une astérisque _" \* "_.
+
+E) Sauvegarde avec _" Save and Publish "_ que tu trouveras en haut à gauche de ta page.
+
+{% image src="/_images/24-cms-save-and-publish.webp", width="300" %}
+
+F) Attends le temps que Cloudflare valide la modification (ça peut prendre un peu de temps).
+
+{% image src="/_images/25-cms-cloudflare-chargement.webp", width="400" %}
+
+G) Une fois validé, rafraichi ta page web. Si tu as ce visuel, bravo, tu as fini la configuration de ton site.
+
+{% image src="/_images/26-cms-fin.webp", width="250" %}
+
+Tu as maintenant accès à tous les outils pour faire ta mise en page et créé ton site internet personnaliser avec POKO.
