@@ -120,4 +120,59 @@ F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis va
 
 {% image src="/_images/6-run-workflow.webp" %}
 
+## 4éme étape :
+
 Ton site est maintenant hébergé ;p
+
+On doit maintenant accéder au CMS  pour pouvoir le configurer.
+
+- Trouvez l'URL de ton projet **1** _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
+- Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
+
+{% image src="/_images/17-cms-connection-admin.webp", width="500" %}
+
+Clique sur _"Sign in with GitHub Using PAT"_ **2**.
+
+{% image src="/_images/18-cms-connection-admin-2.webp", width="200" %}
+
+Tu doit coller le TOKEN que tu as précieusement sauvegardé au début **3**.
+
+{% image src="/_images/19-cms-connection-admin-token.webp", width="300" %}
+
+Bienvenue sur ton CMS. 
+
+> CMS : " Content managment systèm " est le système de gestion de ton site web.
+
+On vas maintenant configurer celui-ci pour que tu puisse enfin commencer ton site.
+
+Commence par aller dans _"settings"_ **4**.
+
+{% image src="/_images/20-cms-pages-d-accueil-vide.webp" %}
+
+A) Nomme ton site **5**.
+
+B) Colle l’URL de ton site sans oublier le _" https:// "_ et en enlevant tout ce qui a après _" .dev "_ **6**.
+
+{% image src="/_images/21-cms-settings-url.webp", width="300" %}
+
+C) Ouvre le volet _" Languages "_ et choisi ta langue.
+
+{% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
+
+{% image src="/_images/23-cms-settings-langue-2.webp", width="301" %}
+
+Vérifie que tu as bien complété tous les champs contenant une astérisque _" \* "_.
+
+E) Sauvegarde avec _" Save and Publish "_ que tu trouveras en haut à gauche de ta page.
+
+{% image src="/_images/24-cms-save-and-publish.webp", width="300" %}
+
+F) Attends le temps que Cloudflare valide la modification (ça peut prendre un peu de temps).
+
+{% image src="/_images/25-cms-cloudflare-chargement.webp", width="500" %}
+
+G) Une fois validé, rafraichi ta page web. Si tu as ce visuel, bravo, tu as fini la configuration de ton site.
+
+{% image src="/_images/26-cms-fin.webp", width="200" %}
+
+Tu as maintenant accès à tous les outils pour faire ta mise en page et créé ton site internet personnaliser avec POKO.
