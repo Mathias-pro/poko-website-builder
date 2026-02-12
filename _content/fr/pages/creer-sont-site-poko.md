@@ -89,3 +89,7 @@ Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. 
 •	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
 
 •	⚠️ Vous ne serez pas en mesure de lire le jeton de Github après avoir quitté la page (vous pouvez toujours en créer un nouveau cependant).
+
+3éme étape:
+
+Héberger ta page internet via GitHub.
