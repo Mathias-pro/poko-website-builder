@@ -20,7 +20,7 @@ dataList: []
 ---
 # Comment utilise-t-on POKO ?
 
-Avant toute chose, crée toi un compte [Github](https://github.com/) et 1 compte [Cloudflare](https://www.cloudflare.com). « C’est entièrement gratuit »
+Avant toute chose, crée toi un compte [Github](https://github.com/). « C’est entièrement gratuit »
 
 ## 1ère étape :
 
@@ -90,6 +90,34 @@ Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. 
 
 •	⚠️ Vous ne serez pas en mesure de lire le jeton de Github après avoir quitté la page (vous pouvez toujours en créer un nouveau cependant).
 
-3éme étape:
+## 3éme étape:
 
-Héberger ta page internet via GitHub.
+On vas maintenant héberger ta page internet via GitHub.
+
+Pour d'autre hébergeur c'est par ICI.
+
+A) Commence par aller dans _" Settings "_ .
+
+{% image src="/_images/1-setting.webp" %}
+
+B) Clique sur _" Pages "_.
+
+{% image src="/_images/2-pages.webp", width="300" %}
+
+C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
+
+{% image src="/_images/3-giyhub-action.webp" %}
+
+D) Vas maintenant dans l'onglet principale _" Actions "_**&#32;2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
+
+{% image src="/_images/4-je-comprend-et-valide.webp" %}
+
+E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
+
+{% image src="/_images/5-deploy.webp" %}
+
+F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide**&#32;6**.
+
+{% image src="/_images/6-run-workflow.webp" %}
+
+Ton site est maintenant hébergé ;p
