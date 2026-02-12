@@ -106,19 +106,19 @@ B) Clique sur _" Pages "_.
 
 C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
 
-{% image src="/_images/3-giyhub-action.webp" %}
+{% image src="/_images/3-giyhub-action.webp", width="900" %}
 
 D) Vas maintenant dans l'onglet principale _" Actions "_**&#32;2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
 
-{% image src="/_images/4-je-comprend-et-valide.webp" %}
+{% image src="/_images/4-je-comprend-et-valide.webp", width="900" %}
 
 E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
 
-{% image src="/_images/5-deploy.webp" %}
+{% image src="/_images/5-deploy.webp", width="900" %}
 
 F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide**&#32;6**.
 
-{% image src="/_images/6-run-workflow.webp" %}
+{% image src="/_images/6-run-workflow.webp", width="800" %}
 
 ## 4éme étape :
 
