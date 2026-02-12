@@ -1,14 +1,14 @@
 ---
-translationKey: index
+translationKey: Index
 lang: fr
-createdAt: 2026-02-09T13:18:00.000Z
-uuid: b295be3b6780
-localizationKey: 364680cddfc8
-name: Cloudflare
+createdAt: 2026-02-12T12:30:00.000Z
+uuid: 9393e283f871
+localizationKey: f45a3ce690be
+name: Créer sont site POKO
 eleventyNavigation:
-  title: Cloudflare
+  title: ''
   parent: ''
-  order: 1
+  order: 0
 metadata: null
 preview: null
 tags: []
@@ -18,69 +18,107 @@ generatePage: ''
 vars: null
 dataList: []
 ---
-## 3éme étape :
+# Comment utilise-t-on POKO ?
 
-On va maintenant héberger ton site web grâce à Cloudflare.
+Avant toute chose, crée toi un compte [Github](https://github.com/). « C’est entièrement gratuit »
 
-Commence par te créer un compte [ICI](https://www.cloudflare.com/fr-fr/lp/dg/brand/cloudflare-enterprise/?utm_medium=cpc&utm_source=google&utm_campaign=ao-fy-acq-emea_fr-connectivity-ge-txt-general-brand_product&utm_content=brand_umbrella_core&gclsrc=aw.ds&&utm_term=cloudflare%20internet_go_cmp-20730031191_adg-158772603721_ad-679237050671_kwd-1656775846248_dev-c_ext-_prd-_sig-CjwKCAiAkbbMBhB2EiwANbxtbVoUQb8syt_Jut_cBTxhqshbsnLjW-pQQP76vyD6jkROKGMrxer0RRoCM3MQAvD_BwE&gad_source=1&gad_campaignid=20730031191&gclid=CjwKCAiAkbbMBhB2EiwANbxtbVoUQb8syt_Jut_cBTxhqshbsnLjW-pQQP76vyD6jkROKGMrxer0RRoCM3MQAvD_BwE).
+## 1ère étape :
 
-A) Clique sur ce lien pour commencer : [Workers & Pages.](https://dash.cloudflare.com/234702a4576e337d12ae62cabd002e0c/workers-and-pages)
+Aller sur cette page Github : [poko-website-builder](https://github.com/m4rrc0/poko-website-builder)
 
-B) Connecte-toi à ton compte  **1** , si ce n’est pas déjà fait.
+Vérifie bien que tu es connecté sur ton compte.
 
-C) Clique sur "_&#160;Ajouter "_**&#32;3**.
+Première chose à faire cliquer sur**&#32;"Fork"**.
 
-{% image src="/_images/7-workes-pages.webp", width="600" %}
+{% image src="/_images/fork.webp" %}
 
-> Sur cette page, tu pourras voir tous tes sites web hébergés sur Cloudflare via cet onglet " **2** ".
+Tu peux ajouter une description à ton nouveau projet et le renommer.
 
-_D) Clique sur " Pages "_**&#32;4**.
+Puis clique sur "**_&#160;Create fork "_** pour valider.
 
-E) Clique sur "_&#32;Importer un référentiel Git existant "_**&#32;5**.
+Tu obtiens un nouvel onglet avec une copie du **"** **website-builder "** qui sera sur ton nouveau compte Github .
 
-{% image src="/_images/8-importer-un-referentiel-github.webp", width="400" %}
+{% image src="/_images/2-new-fork.webp", width="600" %}
 
-F) Clique dans le cadre _" Sélectionner un référentiel "_ **6** sur le nom de votre projet.
+" Félicitation c’est ton nouveau bébé ", prend en soins.
 
-{% image src="/_images/9-chois-du-compte.webp", width="600" %}
+## 2éme étape :
 
-G) Clique sur _" Commencer la configuration "_**&#32;7** (Il restera grisé temps que le projet ne sera pas sélectionné).
+Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
 
-{% image src="/_images/10-commencer-la-configuration.webp", width="600" %}
+> **_Un TOKEN (ou jeton d’accès)_**_&#32;est une chaîne secrète utilisée à la place d’un mot de passe pour s’authentifier auprès de GitHub via l’API ou la ligne de commande; il donne des droits d’accès limités selon les permissions qu’on lui donne._
 
-H) Vérifie que tu es bien sur _" main "_ **8**.
+Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
 
-{% image src="/_images/11-configurer-les-versions-et-les-deploiements.webp", width="600" %}
+#### Tu peux :
 
-I)a) Dans _" Commande de version "_ écrit **" bun run build " 9**.
+**1** Renommer ton TOKEN
 
-   b) Puis dans _" Répertoire de sortie de version_ écrit **" dist " 10**.
+**2** Mettre une description
 
-J) Clique sur _" Enregistrer et déployer "_**&#32;11**_._
+**3** Définir le propriétaire
 
-{% image src="/_images/12-configurer-les-versions-et-les-deploiements-2.webp", width="600" %}
+**4** Choisir une date d’expiration (si tu souhaites donner un accès temporaire)
 
-K) Patient un peu \~30s, tu devrais voir cette page s’afficher quand il a fini.
+{% image src="/_images/3-creation-de-token.webp", width="600" %}
 
-{% image src="/_images/13-operation-reussie.webp", width="400" %}
+**5** Choisir le type d’accès
 
-L) Clique sur _" Continuer le projet "_ **12**.
+**6** Choisir le type d’accès
 
-{% image src="/_images/14-modifier-ou-continuer.webp", width="600" %}
+{% image src="/_images/4-creation-de-token-2.webp", width="600" %}
 
-Si ça échoue, clique simplement sur _" Modifier les paramètres "_ **13**. L’erreur la plus commune étant de se tromper sur _" Commande de version " et " Répertoire de sortie de version_ écrit ".(voir étape I)
+**7** Et enfin générer le TOKEN 
 
-Si ça ne marche toujours pas clique sur l’onglet Workers & Pages à gauche, clique sur les _" … "_ **14** du site créé puis sur _"Paramètre"_ **15**.
+{% image src="/_images/5-creation-de-token-3.webp", width="200" %}
 
-{% image src="/_images/15.webp", width="600" %}
+À savoir :
 
-Supprime-le, puis refais la manipulation depuis le début, en validant bien chaque étape.
+•	Si tu as bifurqué le dépôt dans une organisation, change le " Resource Ownerpour " correspondre au nom de ton organisation.
 
-> Tu trouveras l'option de suppression tout en bas des paramètres **16**.
+•	N’hésite pas à définir une date d’expiration ou à restreindre le " Repository access ".
 
-{% image src="/_images/16-suprimer.webp", width="600" %}
+Le but étant d’avoir un TOKEN de secours pour pouvoir accéder à ton projet de n’importe où (garde bien une date d’expiration illimitée). 
 
-## 
+Bravo, tu as créé ton premier TOKEN. 
+
+{% image src="/_images/6-token.webp", width="600" %}
+
+Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
+
+•	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
+
+•	⚠️ Vous ne serez pas en mesure de lire le jeton de Github après avoir quitté la page (vous pouvez toujours en créer un nouveau cependant).
+
+## 3éme étape:
+
+On vas maintenant héberger ta page internet via GitHub.
+
+Pour d'autre hébergeur c'est par ICI.
+
+A) Commence par aller dans _" Settings "_ .
+
+{% image src="/_images/1-setting.webp" %}
+
+B) Clique sur _" Pages "_.
+
+{% image src="/_images/2-pages.webp", width="300" %}
+
+C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
+
+{% image src="/_images/3-giyhub-action.webp", width="1200" %}
+
+D) Vas maintenant dans l'onglet principale _" Actions "_**&#32;2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
+
+{% image src="/_images/4-je-comprend-et-valide.webp", width="1200" %}
+
+E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
+
+{% image src="/_images/5-deploy.webp", width="1200" %}
+
+F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide**&#32;6**.
+
+{% image src="/_images/6-run-workflow.webp", width="1200" %}
 
 ## 4éme étape :
 
@@ -121,7 +159,7 @@ C) Ouvre le volet _" Languages "_ et choisi ta langue.
 
 {% image src="/_images/22-cms-settings-langue-1.webp", width="300" %}
 
-{% image src="/_images/23-cms-settings-langue-2.webp", width="301" %}
+{% image src="/_images/23-cms-settings-langue-2.webp", width="300" %}
 
 Vérifie que tu as bien complété tous les champs contenant une astérisque _" \* "_.
 
