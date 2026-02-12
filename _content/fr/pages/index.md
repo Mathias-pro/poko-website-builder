@@ -165,7 +165,7 @@ On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
 Clique sur _"Sign in with GitHub Using PAT"_ **2**.
 
-{% image src="/_images/18-cms-connection-admin-2.webp", width="250" %}
+{% image src="/_images/18-cms-connection-admin-2.webp", width="200" %}
 
 Tu doit coller le TOKEN que tu as précieusement sauvegardé au début **3**.
 
@@ -201,10 +201,10 @@ E) Sauvegarde avec _" Save and Publish "_ que tu trouveras en haut à gauche de 
 
 F) Attends le temps que Cloudflare valide la modification (ça peut prendre un peu de temps).
 
-{% image src="/_images/25-cms-cloudflare-chargement.webp", width="400" %}
+{% image src="/_images/25-cms-cloudflare-chargement.webp", width="500" %}
 
 G) Une fois validé, rafraichi ta page web. Si tu as ce visuel, bravo, tu as fini la configuration de ton site.
 
-{% image src="/_images/26-cms-fin.webp", width="250" %}
+{% image src="/_images/26-cms-fin.webp", width="200" %}
 
 Tu as maintenant accès à tous les outils pour faire ta mise en page et créé ton site internet personnaliser avec POKO.
