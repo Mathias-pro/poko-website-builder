@@ -8,7 +8,7 @@ name: Ajouter des intervenants externes
 eleventyNavigation:
   title: Intervenants externes
   parent: ''
-  order: 1
+  order: 2
 metadata: null
 preview: null
 tags: []
