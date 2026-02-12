@@ -8,7 +8,7 @@ name: Tuto POKO
 eleventyNavigation:
   title: Configurer le CMS
   parent: ''
-  order: 0
+  order: 1
 metadata: null
 preview: null
 tags: []
