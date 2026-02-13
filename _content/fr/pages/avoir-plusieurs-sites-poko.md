@@ -4,11 +4,11 @@ lang: fr
 createdAt: 2026-02-12T08:21:00.000Z
 uuid: c2cb12c03249
 localizationKey: e5d28f87f782
-name: Avoir plusieurs sites POKO
+name: Organisations et Multi-sites
 eleventyNavigation:
-  title: Organisation et Multi-sites
-  parent: Accueil
-  order: 2
+  title: Organisations et Multi-sites
+  parent: ''
+  order: 3
 metadata: null
 preview: null
 tags: []
