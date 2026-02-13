@@ -127,10 +127,10 @@ Ton site est maintenant hébergé ;p
 
 On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
-- Trouvez l'URL de ton projet en allant sur " Actions ". (par ex. https://project-name.pages.dev)
-- Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
+# ---->In Progress<----(pas d'image)
 
-{% image src="/_images/17-cms-connection-admin.webp", width="500" %}
+- Trouvez l'URL de ton projet en allant sur " Actions ". Clique sur le dernier update en date. Tu y trouveras le lien vers ton sites(par ex. https://project-name.pages.dev)
+- Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
 
 Clique sur _"Sign in with GitHub Using PAT"_ **2**.
 
