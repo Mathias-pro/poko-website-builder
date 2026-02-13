@@ -69,7 +69,7 @@ J) **Optionnel** Tu peux, si tu le veux, ajouter des collaborateurs **9** sur to
 
 {% image src="/_images/9-collaborateur-2.webp", width="500" %}
 
-> Si tu ne met pas de collaborateurs à cette étape, mais que tu veux en ajouter plus tard. Tu peut suivre ce lien : {% link url="Ajouter des intervenants externes", text="Collaborateurs" %}.
+> Si tu ne met pas de collaborateurs à cette étape, mais que tu veux en ajouter plus tard. Tu peut suivre ce lien : [Collaborateurs](https://mathias-pro.github.io/poko-website-builder/ajouter-des-intervenants-externes/).
 
 K) Clique sur _" Complete Setup "_ **10**.
 
