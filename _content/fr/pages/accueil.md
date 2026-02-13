@@ -92,9 +92,9 @@ Wifi dispo
 
 date à venir…
 
-  **  de 9h30–16h30 (arrivée dès 9h)**
+  **  de 9h30–16h30 (arrivée dès 9h)** 
 
-**    Avenue Armand Huysmans 47/2, 1050 Ixelles**
+**   ** **Avenue Armand Huysmans 47/2, 1050 Ixelles**
 
 #### À prévoir: **Un laptop fonctionnel + ton contenu facilement accessible (textes, images…)**
 
