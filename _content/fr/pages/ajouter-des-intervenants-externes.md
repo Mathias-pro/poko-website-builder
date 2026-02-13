@@ -6,18 +6,19 @@ uuid: 0d93e97d8264
 localizationKey: 40b9067308a9
 name: Ajouter des intervenants externes
 eleventyNavigation:
-  title: Intervenants externes
-  parent: ''
-  order: 2
+  title: Collaborateurs
+  parent: Accueil
+  order: 1
 metadata: null
 preview: null
 tags: []
 status: ''
 pageLayout: ''
 generatePage: ''
-vars: {}
+vars: null
 dataList: []
 ---
+
 # Comment ajouter des collaborateurs :
 
 Si tu veux ajouter des collaborateurs sur ton projet de site internet, tu es au bonne endroit.
