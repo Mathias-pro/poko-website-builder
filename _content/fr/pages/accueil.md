@@ -21,7 +21,7 @@ dataList: []
 
 # Bienvenue sur POKO
 
-{% image src="/_images/poko-logo-rvb.webp" %}
+{% image src="/_images/poko-logo-rvb.webp", width="1200" %}
 
 # Créé & publie ton site web en 1 jour avec poko
 
@@ -66,7 +66,7 @@ Exemple d’un premier site créé avec poko:
 
 ## Infos pratiques
 
-### Lunch: 
+### Lunch:
 
 possibilité de réchauffer sur place
 
@@ -98,10 +98,10 @@ date à venir…
 
 **Avenue Armand Huysmans 47/2, 1050 Ixelles**
 
-### À prévoir: 
+### À prévoir:
 
 **Un laptop fonctionnel + ton contenu facilement accessible (textes, images…)**
 
-### Places: 
+### Places:
 
 **5 disponibles seulement** → premier·e arrivé·e, premier·e servi·e
