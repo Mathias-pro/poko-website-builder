@@ -85,7 +85,7 @@ Bravo, tu as créé ton premier TOKEN.
 
 {% image src="/_images/6-token.webp", width="600" %}
 
-Copiez la valeur du TOKEN "** 1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
+Copiez la valeur du TOKEN " **1 **" et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
 
 •	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
 
