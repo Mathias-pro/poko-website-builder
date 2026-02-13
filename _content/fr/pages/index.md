@@ -29,7 +29,7 @@ Aller sur cette page Github : [poko-website-builder](https://github.com/m4rrc0/p
 
 Vérifie bien que tu es connecté sur ton compte.
 
-Première chose à faire cliquer sur**"Fork"**.
+Première chose à faire cliquer sur **"Fork"**.
 
 {% image src="/_images/fork.webp" %}
 
