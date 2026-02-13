@@ -7,7 +7,7 @@ localizationKey: f45a3ce690be
 name: Créer sont site POKO
 eleventyNavigation:
   title: ''
-  parent: ''
+  parent: Accueil
   order: 0
 metadata: null
 preview: null
