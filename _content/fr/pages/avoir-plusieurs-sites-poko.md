@@ -81,6 +81,6 @@ Félicitation, tu as maintenant une nouvelle organisation.
 
 {% image src="/_images/11-fini.webp", width="1200" %}
 
-Tu peut créer de façon illimité
+Tu peut créer des organisation gratuites de façon illimité et donc des sites internet illimité.
 
 Tu peut maintenant choisir l'organisation quand tu Fork (Crée une copie de POKO).
