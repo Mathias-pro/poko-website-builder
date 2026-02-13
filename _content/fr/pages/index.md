@@ -1,5 +1,5 @@
 ---
-translationKey: Index
+translationKey: index
 lang: fr
 createdAt: 2026-02-12T12:30:00.000Z
 uuid: 9393e283f871
@@ -18,6 +18,7 @@ generatePage: ''
 vars: null
 dataList: []
 ---
+
 # Comment utilise-t-on POKO ?
 
 Avant toute chose, crée toi un compte [Github](https://github.com/). « C’est entièrement gratuit »
@@ -28,7 +29,7 @@ Aller sur cette page Github : [poko-website-builder](https://github.com/m4rrc0/p
 
 Vérifie bien que tu es connecté sur ton compte.
 
-Première chose à faire cliquer sur**&#32;"Fork"**.
+Première chose à faire cliquer sur** "Fork"**.
 
 {% image src="/_images/fork.webp" %}
 
@@ -36,7 +37,7 @@ Tu peux ajouter une description à ton nouveau projet et le renommer.
 
 Puis clique sur "**_&#160;Create fork "_** pour valider.
 
-Tu obtiens un nouvel onglet avec une copie du **"** **website-builder "** qui sera sur ton nouveau compte Github .
+Tu obtiens un nouvel onglet avec une copie du **" website-builder "** qui sera sur ton nouveau compte Github .
 
 {% image src="/_images/2-new-fork.webp", width="600" %}
 
@@ -46,7 +47,7 @@ Tu obtiens un nouvel onglet avec une copie du **"** **website-builder "** qui se
 
 Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
 
-> **_Un TOKEN (ou jeton d’accès)_**_&#32;est une chaîne secrète utilisée à la place d’un mot de passe pour s’authentifier auprès de GitHub via l’API ou la ligne de commande; il donne des droits d’accès limités selon les permissions qu’on lui donne._
+> **_Un TOKEN (ou jeton d’accès)_**_ est une chaîne secrète utilisée à la place d’un mot de passe pour s’authentifier auprès de GitHub via l’API ou la ligne de commande; il donne des droits d’accès limités selon les permissions qu’on lui donne._
 
 Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/personal-access-tokens/new?name=poko-website-builder+token&description=Read+and+write+repo+access+for+the+CMS&expires_in=none&contents=write).
 
@@ -68,7 +69,7 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 {% image src="/_images/4-creation-de-token-2.webp", width="600" %}
 
-**7** Et enfin générer le TOKEN 
+**7** Et enfin générer le TOKEN
 
 {% image src="/_images/5-creation-de-token-3.webp", width="200" %}
 
@@ -78,13 +79,13 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 •	N’hésite pas à définir une date d’expiration ou à restreindre le " Repository access ".
 
-Le but étant d’avoir un TOKEN de secours pour pouvoir accéder à ton projet de n’importe où (garde bien une date d’expiration illimitée). 
+Le but étant d’avoir un TOKEN de secours pour pouvoir accéder à ton projet de n’importe où (garde bien une date d’expiration illimitée).
 
-Bravo, tu as créé ton premier TOKEN. 
+Bravo, tu as créé ton premier TOKEN.
 
 {% image src="/_images/6-token.webp", width="600" %}
 
-Copiez la valeur du TOKEN "**&#32;1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
+Copiez la valeur du TOKEN "** 1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
 
 •	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
 
@@ -108,7 +109,7 @@ C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
 
 {% image src="/_images/3-giyhub-action.webp", width="1200" %}
 
-D) Vas maintenant dans l'onglet principale _" Actions "_**&#32;2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
+D) Vas maintenant dans l'onglet principale _" Actions "_** 2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
 
 {% image src="/_images/4-je-comprend-et-valide.webp", width="1200" %}
 
@@ -116,7 +117,7 @@ E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
 
 {% image src="/_images/5-deploy.webp", width="1200" %}
 
-F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide**&#32;6**.
+F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide** 6**.
 
 {% image src="/_images/6-run-workflow.webp", width="1200" %}
 
@@ -126,7 +127,7 @@ Ton site est maintenant hébergé ;p
 
 On doit maintenant accéder au CMS  pour pouvoir le configurer.
 
-- Trouvez l'URL de ton projet **1** _" Cloudflare Pages "_. (par ex. https://project-name.pages.dev)
+- Trouvez l'URL de ton projet en allant sur " Actions ". (par ex. https://project-name.pages.dev)
 - Ouvrez l'URL dans ton navigateur et ajoutez _" /admin "_ juste à la fin (Par ex. https://project-name.pages.dev/admin). Tu devrais voir l'écran de connexion CMS.
 
 {% image src="/_images/17-cms-connection-admin.webp", width="500" %}
@@ -139,7 +140,7 @@ Tu doit coller le TOKEN que tu as précieusement sauvegardé au début **3**.
 
 {% image src="/_images/19-cms-connection-admin-token.webp", width="300" %}
 
-Bienvenue sur ton CMS. 
+Bienvenue sur ton CMS.
 
 > CMS : " Content managment systèm " est le système de gestion de ton site web.
 
