@@ -30,9 +30,9 @@ dataList: []
 - Dans mon espace
 - Présentiel
 
-Un site web performant, accessible… et éco-responsable!
+##### Un site web performant, accessible… et éco-responsable!
 
-### Tu savais qu’un site peut être rapide, léger, inclusif et… écologique?!
+> **Tu savais qu’un site peut être rapide, léger, inclusif et… écologique?!**
 
 En nous inspirant des principes d’écologie numérique, on conçoit des sites qui respectent ton audience et la planète. Voici ce que ça signifie concrètement:
 
@@ -66,9 +66,11 @@ Exemple d’un premier site créé avec poko:
 
 ## Infos pratiques
 
-Lunch: possibilité de réchauffer sur place
+### Lunch: 
 
-Café, thé, eau → offerts
+possibilité de réchauffer sur place
+
+**Café, thé, eau → offerts**
 
 Wifi dispo
 
@@ -88,14 +90,18 @@ Wifi dispo
 
 > www.m4rr.co
 
-## Prochaines dates
+### Prochaines dates
 
 date à venir…
 
-  **  de 9h30–16h30 (arrivée dès 9h)** 
+**De 9h30–16h30 (arrivée dès 9h)**
 
-**   ** **Avenue Armand Huysmans 47/2, 1050 Ixelles**
+**Avenue Armand Huysmans 47/2, 1050 Ixelles**
 
-#### À prévoir: **Un laptop fonctionnel + ton contenu facilement accessible (textes, images…)**
+### À prévoir: 
 
-Places: 5 disponibles seulement → premier·e arrivé·e, premier·e servi·e
+**Un laptop fonctionnel + ton contenu facilement accessible (textes, images…)**
+
+### Places: 
+
+**5 disponibles seulement** → premier·e arrivé·e, premier·e servi·e
