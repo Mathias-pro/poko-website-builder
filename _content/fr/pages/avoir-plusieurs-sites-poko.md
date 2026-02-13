@@ -6,9 +6,9 @@ uuid: c2cb12c03249
 localizationKey: e5d28f87f782
 name: Avoir plusieurs sites POKO
 eleventyNavigation:
-  title: Plusieurs sites POKO
-  parent: ''
-  order: 3
+  title: Organisation et Multi-sites
+  parent: Accueil
+  order: 2
 metadata: null
 preview: null
 tags: []
