@@ -21,31 +21,31 @@ dataList: []
 
 # Comment utilise-t-on POKO ?
 
-Avant toute chose, crée toi un compte [Github](https://github.com/). « C’est entièrement gratuit »
+Avant toute chose, crée toi un compte [GitHub](https://github.com/). « C’est entièrement gratuit »
 
 ## 1ère étape :
 
-Aller sur cette page Github : [poko-website-builder](https://github.com/m4rrc0/poko-website-builder)
+Aller sur cette page GitHub : [poko-website-builder](https://github.com/m4rrc0/poko-website-builder)
 
 Vérifie bien que tu es connecté sur ton compte.
 
-Première chose à faire cliquer sur **"Fork"**.
+Première chose à faire cliquer sur _"Fork"_.
 
 {% image src="/_images/fork.webp" %}
 
 Tu peux ajouter une description à ton nouveau projet et le renommer.
 
-Puis clique sur "**_&#160;Create fork "_** pour valider.
+Puis clique sur _" Create fork "_ pour valider.
 
-Tu obtiens un nouvel onglet avec une copie du **" website-builder "** qui sera sur ton nouveau compte Github .
+Tu obtiens un nouvel onglet avec une copie du _" website-builder "_ qui sera sur ton nouveau compte GitHub .
 
 {% image src="/_images/2-new-fork.webp", width="600" %}
 
-" Félicitation c’est ton nouveau bébé ", prend en soins.
+**Félicitation c’est ton nouveau bébé&#160;**, prend en soins.
 
 ## 2éme étape :
 
-Il te faut maintenant un **TOKEN.**[{% icon "undefined:undefined" %}](#_ftn1)
+Il te faut maintenant un **TOKEN.**
 
 > **_Un TOKEN (ou jeton d’accès)_**_ est une chaîne secrète utilisée à la place d’un mot de passe pour s’authentifier auprès de GitHub via l’API ou la ligne de commande; il donne des droits d’accès limités selon les permissions qu’on lui donne._
 
@@ -53,23 +53,23 @@ Tu pourras le créer en passant par ce lien [TOKEN](https://github.com/settings/
 
 #### Tu peux :
 
-**1** Renommer ton TOKEN
+A) Renommer ton TOKEN **1**.
 
-**2** Mettre une description
+B) Mettre une description **2**.
 
-**3** Définir le propriétaire
+C) Définir le propriétaire **3**.
 
-**4** Choisir une date d’expiration (si tu souhaites donner un accès temporaire)
+D) Choisir une date d’expiration (si tu souhaites donner un accès temporaire) **4**.
 
 {% image src="/_images/3-creation-de-token.webp", width="600" %}
 
-**5** Choisir le type d’accès
+E) Choisir le type d’accès **5**.
 
-**6** Choisir le type d’accès
+F) Choisir le type d’accès **6**.
 
 {% image src="/_images/4-creation-de-token-2.webp", width="600" %}
 
-**7** Et enfin générer le TOKEN
+G) Et enfin générer le TOKEN **7**.
 
 {% image src="/_images/5-creation-de-token-3.webp", width="200" %}
 
@@ -85,7 +85,7 @@ Bravo, tu as créé ton premier TOKEN.
 
 {% image src="/_images/6-token.webp", width="600" %}
 
-Copiez la valeur du TOKEN " **1 **" et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
+Copiez la valeur du TOKEN " **1** " et enregistrez-la dans un endroit sûr. (comme un gestionnaire de mots de passe).
 
 •	⚠️ Ne partagez pas ce jeton avec qui que ce soit.
 
@@ -109,7 +109,7 @@ C) Clique sur le menu déroulant puis sur _" GitHub Actions "_ **1**.
 
 {% image src="/_images/3-giyhub-action.webp", width="1200" %}
 
-D) Vas maintenant dans l'onglet principale _" Actions "_** 2**  puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
+D) Vas maintenant dans l'onglet principale _" Actions "_ **2** puis clique sur _" I understand my workflows, go ahead and enable them "_ **3**.
 
 {% image src="/_images/4-je-comprend-et-valide.webp", width="1200" %}
 
