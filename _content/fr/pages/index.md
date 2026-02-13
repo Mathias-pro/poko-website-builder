@@ -117,7 +117,7 @@ E) Clique sur _" Deploy 11 ty site to pages "_ **4**.
 
 {% image src="/_images/5-deploy.webp", width="1200" %}
 
-F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide** 6**.
+F) Déroule _" Run workflow "_ et vérifie que tu es bien sur main **5** puis valide **6**.
 
 {% image src="/_images/6-run-workflow.webp", width="1200" %}
 
