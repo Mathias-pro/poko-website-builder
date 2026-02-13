@@ -49,4 +49,4 @@ H) Coche la validation des _" Terms of Service "_ **7** puis valide **8**.
 
 I) Tu peux, si tu le veux, ajouter des collaborateurs **9** sur ton projet à cette étapes. Tu peut les chercher en cherchant leurs comptes GitHub. Il recevrons ensuite un mail qui les inviteras sur ton projet.
 
-Si tu ne met pas de collaborateurs à cette étape mais que tu veux en ajouter plus tard. Tu peut suivre ce lien : {% link url="cloudflare", text="ici" %}.
+Si tu ne met pas de collaborateurs à cette étape mais que tu veux en ajouter plus tard. Tu peut suivre ce lien : {% link url="Ajouter des intervenants externes", text="Collaborateurs" %}.
