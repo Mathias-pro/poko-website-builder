@@ -21,11 +21,11 @@ dataList: []
 
 # Comment avoir plusieurs site internet POKO ?
 
-Pour commencer , il faut savoir que GitHub ne permet d'avoir et d’héberger qu'un seul site internet par compte Gratuitement.
+> Pour commencer , il faut savoir que GitHub ne permet d'avoir et d’héberger qu'un seul site internet par compte Gratuitement.
 
-Cependant, il est possible de créer des organisations possédants leurs propre site à partir d'un même compte.
+> Cependant, il est possible de créer des organisations possédants leurs propre site à partir d'un même compte.
 
-Tu vas donc apprendre à créer une Organisation sur GitHub.
+### Tu vas donc apprendre à créer une Organisation sur GitHub.
 
 Commence par aller sur ta page d'accueil GitHub.
 
@@ -35,15 +35,15 @@ A) Clique en haut à gauche.
 
 B) Clique sur Home
 
-{% image src="/_images/0-5-home-2.webp", width="300" %}
+{% image src="/_images/0-5-home-2.webp", width="400" %}
 
 C) Clique sur le menu déroulant **1** puis sur _" Create Organization "_ **2**.
 
-{% image src="/_images/2-5-nouvelle-organisation-via-l-accueil.webp", width="300" %}
+{% image src="/_images/2-5-nouvelle-organisation-via-l-accueil.webp", width="400" %}
 
 D) Clique sur _" Create a free Organization "_
 
-{% image src="/_images/3-free.webp", width="300" %}
+{% image src="/_images/3-free.webp", width="400" %}
 
 E) Choisi ton nom d'organisation **3**.
 
@@ -55,9 +55,9 @@ G) Choisi si c'est pour toi ou une organisation **5**.
 
 H) Prouve que tu n'est pas un BOT **6**.
 
-{% image src="/_images/5-set-up-2.webp", width="400" %}
+{% image src="/_images/5-set-up-2.webp", width="500" %}
 
-{% image src="/_images/6-set-up-3.webp", width="400" %}
+{% image src="/_images/6-set-up-3.webp", width="500" %}
 
 I) Coche la validation des _" Terms of Service "_ **7** puis valide **8**.
 
@@ -67,7 +67,7 @@ J) **Optionnel** Tu peux, si tu le veux, ajouter des collaborateurs **9** sur to
 
 {% image src="/_images/8-collaborateur.webp", width="500" %}
 
-{% image src="/_images/9-collaborateur-2.webp", width="300" %}
+{% image src="/_images/9-collaborateur-2.webp", width="500" %}
 
 > Si tu ne met pas de collaborateurs à cette étape, mais que tu veux en ajouter plus tard. Tu peut suivre ce lien : {% link url="Ajouter des intervenants externes", text="Collaborateurs" %}.
 
@@ -75,7 +75,7 @@ K) Clique sur _" Complete Setup "_ **10**.
 
 L) Il ne te reste plus qu'à valider ton organisation via ton mail **11**.
 
-{% image src="/_images/10-confirmation.webp", width="200" %}
+{% image src="/_images/10-confirmation.webp", width="300" %}
 
 Félicitation, tu as maintenant une nouvelle organisation.
 
